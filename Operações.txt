@@ -1,0 +1,4 @@
+Operações:
+
+Este programa foi formulado em linguagem HTML5, CSS3, JavaScript e Django.
+o banco de dados foi contruido no SQL Server.
