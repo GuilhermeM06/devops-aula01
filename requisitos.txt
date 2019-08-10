@@ -1,0 +1,13 @@
+Análise
+
+APP DE ENTREGA DE COMIDA - FAST + FOOD
+
+
+O cliente que desejar fazer o pedido de comida vai primeiro realizar o cadastro no aplicativo onde irá informar o nome,CPF e Endereço e colocará uma senha ao final para poder acessar.Depois ele fará uma pesquisa pelo tipo de comida, nome do restaurante ou nome da comida. Quando fizer a pesquisa receberá as informações do item pesquisado e fará a seleção do item  que quiser. Logo após o cliente será redirecionado para a escolha da forma de pagamento que será entre as opções de cartão(Crédito ou Débito) ou dinheiro. Finalizando assim o pedido da comida e depois será mostrado para o cliente quanto tempo irá levar para o seu pedido chegar.  
+
+Em resumo o cliente irá fazer:
+-Cadastro do cliente(Nome:,CPF,Endereço).
+-Tipos de comida (Asiatica, italiana e etc..).
+-Cardapio do restaurante pesquisado.
+-Forma de pagamento do cliente (Cartão de crédito, debito e dinheiro).
+-Acompanhamento da entrega e tempo de entrega.
