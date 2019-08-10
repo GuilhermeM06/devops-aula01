@@ -1,0 +1,32 @@
+Codificação
+
+- Cadastro Novo_Cliente:
+cliente=("Insira seu nome: ")
+CPF=("Insira seu CPF: ")
+endereço=("Insira seu nome: ")
+senha=("Insira sua senha: ")
+	Envio para banco de dados direcinado para cadastro do cliente
+
+- Barra de Pesquisa:
+itemPesquisa=("Oque Deseja pesquisar?: ")
+	Realiza a busca pelos itens
+  
+- Forma de Pagamento:
+formaPgmt = ["Crédito", "Débito", "Dinheiro"]
+    Se formaPgmt for Crédito
+      numCart=("insira o numero do Cartão: ")
+      dataDeVenc=("Vencimento do Cartão: ")
+      cvv= ("Informe Código de Segurança: ")
+      
+- Cadastro Novo_Restaurante:
+NomeRestaurante=("Insira o nome do registrado do restaurante: ")
+NomeRestauranteFantasia("Insira o nome fantasia do restaurante: ")
+CNPJ=("Insira o CNPJ: ")
+	Envio para banco de dados direcinado para cadastro do Restaurante
+idTipoComida=("Escolha entre as opções: ")
+	click na aba:
+	Lista_de_Tipos_de_Comida=["Japonesa", "Chinesa", "Arabe", "Italiana", "Francesa", "Tradicional"] 
+		Se não seja nenhuma da lista:
+			Outros=("Insira o tipo da comida que serve: ")
+EndereçoRestaurante=("Insira o endereço aqui: ")
+Pratos=("Insira o nome e itens que vem nos pratos: ")
