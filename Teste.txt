@@ -1,0 +1,16 @@
+victor Augusto Mota Fossaluzza
+Testes:
+O cliente conseguiu fazer login ou registro com sucesso: OK
+O restaurante conseguiu fazer login ou registro com sucesso: OK
+Mecanismo de busca por restaurante : OK
+MEcanismo de Seleção de Pedidos : NK
+Módulo cadastro de cardapio :OK
+Cadastro da forma de pagamento funcionou: NÃO OK
+Registro de temas na aplicação: OK
+Registro de pedido: OK
+Acompanhamento da entrega por GPS: NÃO OK
+Componente de registros de pedidos no restaurante: OK
+Componente para de pagamento(Cartão de crédito): ok
+Componente para cadastro de cartão de crédito no aplicativo  : Não OK
+Componente de Geolocalização para calculo de do prazo de entregas : Não OK
+
