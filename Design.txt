@@ -1,0 +1,35 @@
+Guilherme Alves dos Santos
+--------------------------
+Componentes
+--------------------------
+Interface de usuário:
+-Campo para preenchimento de login e senha
+-Campo para registo de novo usuário 
+-Campo para registro de restaurante
+--------------------------
+Interface de pedido:
+-Mecanismo de pesquisa por restaurantes 
+-Mecanimos de seleção de pedidos
+-Funcionalidades para opções(refeições) adicionais
+-Funcionalidade para verificação de preço
+-Componente para listar o cárdapio 
+--------------------------
+Registro do pedido: 
+-Componente para registrar os itens pedidos no restaurante
+-Componente para fazer o cálculo do preço total do pedido 
+-COmponente para criar uma ordem de pedido com informações do destino informado 
+-Componente para registro da saida do delivery com data e hora 
+--------------------------
+Cadastro de pagamento: 
+-Componente para registrar a forma de pagamento(cartão ou dinheiro em especie)
+-Componente para registro de cartão 
+--------------------------
+Registro de entrega:
+-Componente que permita o restaurante estipular prazo de entrega para cada produto
+-Componente de registro via GPS para o cliente acompanhar entrega do pedido
+--------------------------
+Cadastro de restaurante:
+-Componente que registra informações da empresa como localidade e meios de validação de identificação 
+-Componente para registro tema de produção
+-Componente para registro de produtos 
+-Cadastro da loja com pontualidades da localização e serviço prestado
